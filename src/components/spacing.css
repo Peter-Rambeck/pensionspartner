@@ -1,0 +1,17 @@
+.spacing {
+  padding-top: 2em;
+  padding-bottom: 2em;
+}
+.spacing-headline {
+  padding-top: 2em;
+  padding-bottom: 3em;
+}
+
+.double-spacing {
+  padding-top: 4em;
+  padding-bottom: 4em;
+}
+.top-body-padding {
+  padding-left: 20%;
+  padding-right: 20%;
+}
